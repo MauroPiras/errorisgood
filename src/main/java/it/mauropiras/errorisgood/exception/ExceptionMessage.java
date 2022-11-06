@@ -1,4 +1,4 @@
-package error.exception;
+package it.mauropiras.errorisgood.exception;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;

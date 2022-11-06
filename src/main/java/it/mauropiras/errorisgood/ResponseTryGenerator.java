@@ -1,5 +1,7 @@
-import error.ErrorResponse;
-import error.exception.CustomException;
+package it.mauropiras.errorisgood;
+
+import it.mauropiras.errorisgood.error.ErrorResponse;
+import it.mauropiras.errorisgood.exception.CustomException;
 import io.vavr.CheckedFunction1;
 import io.vavr.control.Either;
 import io.vavr.control.Try;

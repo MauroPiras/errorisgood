@@ -1,8 +1,8 @@
-package error;
+package it.mauropiras.errorisgood.error;
 
-import error.exception.AlreadyExistsException;
-import error.exception.CustomException;
-import error.exception.NotFoundException;
+import it.mauropiras.errorisgood.exception.CustomException;
+import it.mauropiras.errorisgood.exception.NotFoundException;
+import it.mauropiras.errorisgood.exception.AlreadyExistsException;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 

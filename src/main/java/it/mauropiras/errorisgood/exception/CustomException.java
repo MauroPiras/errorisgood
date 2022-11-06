@@ -1,4 +1,4 @@
-package error.exception;
+package it.mauropiras.errorisgood.exception;
 
 import lombok.Data;
 import org.springframework.http.HttpStatus;

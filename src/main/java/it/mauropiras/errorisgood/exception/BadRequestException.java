@@ -1,4 +1,4 @@
-package error.exception;
+package it.mauropiras.errorisgood.exception;
 
 public class BadRequestException extends CustomException {
 

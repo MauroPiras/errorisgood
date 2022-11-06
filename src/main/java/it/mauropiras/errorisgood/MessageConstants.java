@@ -1,3 +1,5 @@
+package it.mauropiras.errorisgood;
+
 public class MessageConstants {
 
     public static final String USER_REGISTER_SUCCESS = "User registered with success!";

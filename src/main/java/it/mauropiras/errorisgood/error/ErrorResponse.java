@@ -1,6 +1,6 @@
-package error;
+package it.mauropiras.errorisgood.error;
 
-import error.exception.CustomException;
+import it.mauropiras.errorisgood.exception.CustomException;
 import io.vavr.control.Either;
 import lombok.Data;
 
